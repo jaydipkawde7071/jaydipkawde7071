@@ -12,7 +12,7 @@
 I'm an aspiring Data Analyst interested in exploring data, identifying patterns, and solving business problems using data-driven insights.
 
 * 🐍 Data analysis using Python, Pandas, and NumPy
-* 🗄️ Querying and analyzing data using SQL and MySQL
+* 🗄️ Querying and analyzing data using SQL and MySQL 
 * 📊 Creating reports and dashboards using Microsoft Excel
 * 📈 Visualizing data using Matplotlib and Seaborn
 * 🌱 Continuously learning and building practical analytics projects
