@@ -67,3 +67,11 @@ To begin my career as a Data Analyst, apply my analytical skills to real-world b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip-kawde-7071/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaydipkawde7071)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=jaydipkawde7071&label=Profile%20Views&color=6f42c1&style=for-the-badge)
+
+---
