@@ -38,13 +38,18 @@ I'm an aspiring Data Analyst interested in exploring data, identifying patterns,
 To begin my career as a Data Analyst, apply my analytical skills to real-world business problems, and continuously grow my technical and problem-solving abilities.
 
 ---
+---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jaydip-kawde-7071/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipkawde7071&show_icons=true&theme=midnight-purple)
 
-💻 **GitHub:** [Explore my repositories](https://github.com/jaydipkawde7071)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydipkawde7071&layout=compact&theme=midnight-purple)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaydip-kawde-7071/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jaydipkawde7071)
