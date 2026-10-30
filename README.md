@@ -53,14 +53,13 @@ To begin my career as a Data Analyst, apply my analytical skills to real-world b
 ---
 ---
 
----
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipkawde7071&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jaydipkawde7071&show_icons=true&theme=midnight-purple)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydipkawde7071&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jaydipkawde7071&layout=compact&theme=midnight-purple)
 
+---
 ---
 
 ## 🤝 Connect With Me
