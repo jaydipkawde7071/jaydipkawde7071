@@ -53,6 +53,8 @@ To begin my career as a Data Analyst, apply my analytical skills to real-world b
 ---
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydipkawde7071&show_icons=true&theme=midnight-purple)
@@ -63,6 +65,6 @@ To begin my career as a Data Analyst, apply my analytical skills to real-world b
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaydip-kawde-7071/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip-kawde-7071/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jaydipkawde7071)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaydipkawde7071)
